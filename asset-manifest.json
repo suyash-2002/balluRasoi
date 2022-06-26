@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/balluRasoi/static/css/main.3d87dd3a.css",
+    "main.js": "/balluRasoi/static/js/main.bf29e0ed.js",
+    "index.html": "/balluRasoi/index.html",
+    "main.3d87dd3a.css.map": "/balluRasoi/static/css/main.3d87dd3a.css.map",
+    "main.bf29e0ed.js.map": "/balluRasoi/static/js/main.bf29e0ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d87dd3a.css",
+    "static/js/main.bf29e0ed.js"
+  ]
+}
